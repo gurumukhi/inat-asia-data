@@ -1,0 +1,8 @@
+API1 = https://api.inaturalist.org/v2/observations?place_id=6681&created_d1=2016-01-01&created_d2=2016-12-31&preferred_place_id=6681&per_page=1&fields=species_guess%2Cobserved_on
+Result1 = {"total_results":7686,"page":1,"per_page":1,"results":[{"uuid":"b7244e0e-f31a-45b3-9747-07fa42fdde51","species_guess":"Podiceps cristatus","observed_on":"2016-12-27"}]}
+
+URL1 = https://colab.research.google.com/drive/1Qpuj6ev_s6zHoA0Cs5PEJDDN7QpclAlP?usp=sharing
+
+
+// Some statistics - https://docs.google.com/spreadsheets/d/1RRbB7D1hNEnJXInL7QA671_QdFG7IxT6Y3Pu0dJ-mIw/edit?usp=sharing
+
