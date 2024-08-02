@@ -6,3 +6,13 @@ URL1 = https://colab.research.google.com/drive/1Qpuj6ev_s6zHoA0Cs5PEJDDN7QpclAlP
 
 // Some statistics - https://docs.google.com/spreadsheets/d/1RRbB7D1hNEnJXInL7QA671_QdFG7IxT6Y3Pu0dJ-mIw/edit?usp=sharing
 
+
+
+
+observersAPI = https://api.inaturalist.org/v1/observations/observers?verifiable=true&spam=false&d1=2023-07-01&d2=2024-06-30&place_id=97394&locale=en&preferred_place_id=6681&per_page=0
+
+identifiersAPI = https://api.inaturalist.org/v1/observations/identifiers?verifiable=true&spam=false&d1=2023-07-01&d2=2024-06-30&place_id=97394&locale=en&preferred_place_id=6681&per_page=0
+
+speciesAPI = https://api.inaturalist.org/v1/observations/species_counts?verifiable=true&spam=false&d1=2023-07-01&d2=2024-06-30&place_id=97394&locale=en&preferred_place_id=6681&per_page=0
+
+observationsAPI = https://api.inaturalist.org/v1/observations?verifiable=true&order_by=observations.id&order=desc&page=1&spam=false&d1=2023-07-01&d2=2024-06-30&place_id=97394&locale=en&preferred_place_id=6681&per_page=0&return_bounds=true
